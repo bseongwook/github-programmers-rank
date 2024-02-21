@@ -3,7 +3,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="551px" height="217px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
 <style>
             .title {
-                color: #A9A9A9;
+                color: #0078ff;
                 font-size: 1rem;
                 line-height: 1.5rem;
                 font-weight: bold;
@@ -11,7 +11,7 @@
             }
         
             .desc {
-                color: #A9A9A9;
+                color: #0078ff;
                 font-size: 2.5rem;
                 font-weight: bold;
                 line-height: 1.5rem;
@@ -19,7 +19,7 @@
             }
         
             .desc-2 {
-                color: #A9A9A9;
+                color: #0078ff;
                 font-size: 1rem;
                 font-weight: bold;
                 line-height: 1.5rem;
@@ -75,11 +75,11 @@
             <text text-anchor="middle" x="360" y="85" class="desc" stroke="#none" stroke-width="1" >1,506</text>
             
             <text text-anchor="middle" x="100" y="150" class="title" style="fill:#0078ff;" stroke="#none" stroke-width="1" >해결한 코딩 테스트</text>
-            <text text-anchor="middle" x="65" y="190" class="desc" stroke="#none" stroke-width="1" >228</text>
+            <text text-anchor="middle" x="65" y="190" class="desc" stroke="#none" stroke-width="1" >232</text>
             <text text-anchor="middle" x="120" y="190" class="desc-2" stroke="#none" stroke-width="1" >문제</text>
             
             <text text-anchor="middle" x="340" y="150" class="title" style="fill:#0078ff;" stroke="#none" stroke-width="1" >나의 랭킹</text>
-            <text text-anchor="middle" x="370" y="190" class="desc" stroke="#none" stroke-width="1" >10,479</text>
+            <text text-anchor="middle" x="370" y="190" class="desc" stroke="#none" stroke-width="1" >10,484</text>
             <text text-anchor="middle" x="450" y="190" class="desc-2" stroke="#none" stroke-width="1" >위</text>
         </svg>
         
